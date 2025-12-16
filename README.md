@@ -4,6 +4,11 @@ This project presents an **interactive IPL Analysis Dashboard** designed to anal
 
 ---
 
+### *📊 Dashboard Preview – IPL Dashboard*
+<img src="./IPL Dashboard.png" alt="Ecommerce Sales Dashboard" width="850">
+
+---
+
 ## 📊 Dashboard Highlights
 
 - **Season Selector** to explore IPL data year-wise  
